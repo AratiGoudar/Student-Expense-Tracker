@@ -28,6 +28,7 @@ Student-Expense-Tracker/
 ⚙️ Installation and Setup
 Follow these steps to run the project on your computer.
 Step 1: Copy the code in jupyter.
+https://github.com/AratiGoudar/Student-Expense-Tracker/blob/ea379933da64a890e1d6b9c6198bd545b7a20744/Student%20Expense%20Tracker.py
 Step 2: Run the code.
 
 ▶️ How to Use
